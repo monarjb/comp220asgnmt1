@@ -1,0 +1,76 @@
+/* custom css*/
+body {
+    background-color: gainsboro;
+}
+
+.home_main{
+    margin : 10vh;
+    padding : 3vh;
+}
+.logo {
+    max-width:4%;
+    max-height: 4%;
+}
+#pro{
+    height : 100vh;
+    border-radius: 3vh;
+    background-color: rgb(175, 175, 175);
+    margin : 4px;
+}
+#picpos{
+    margin-top:15vh;
+    border-radius: 15%;
+}
+#tbl{
+    background-color:rgb(175, 175, 175);
+   
+}
+#service{
+    border-radius: 10vh;
+    margin-top: 15vh;
+    background-color: rgb(10, 10, 10);
+}
+#pic{
+    margin-top: 1vh;
+    border-radius: 15%;
+}
+#pic2{
+    margin-left: 20vh;
+    border-radius: 15%;
+    
+}
+
+#backgrnd{
+    background-color: black;
+
+    margin-top: 20vh;
+    border-radius: 15%;
+}
+#pro:hover{
+    background-color: rgb(107, 5, 27);
+}
+.mainContent{
+    justify-content: center;
+}
+#contactDiv{
+    background-color: rgb(5, 187, 163);
+    text-align: center;
+    padding-top : 8vh;
+    border-radius: 3vh;
+    padding-bottom: 8vh;
+}
+#info{
+    padding-top: 15vh;
+    text-align: center;
+}
+
+#pro2{
+    height : 100vh;
+    border-radius: 3vh;
+   
+    background-color: rgb(175, 175, 175);
+    margin : 4px;
+}
+#pro2:hover{
+    background-image: linear-gradient(180deg, rgba(255,0,0,0), rgb(107, 5, 27));
+}
